@@ -1,0 +1,49 @@
+body{
+	background-color:moccasin; color: midnightblue;
+	
+	font-family: Comic Sans MS, cursive, sans-serif;
+	
+	font-size: 16px;
+	font-weight: normal;
+	
+	line-height: 1.6em;
+	
+	
+.container{
+			width: 80%;
+			margin:auto;
+}
+
+.box-1{
+	background-color: moccasin;
+	color: midnightblue;
+	
+	border: 5px midnightblue dashed; 
+	
+	text-align: center;
+	font-family: Noto;
+	text-transform:uppercase;
+	
+	
+}
+
+.box-2{
+	background-color: moccasin;
+	color: midnightblue;
+	
+	border: 5px midnightblue dashed; 
+	
+	text-align: center;
+	font-family: Noto;
+	text-transform:uppercase;
+}
+
+table{
+	width: 700px;
+	border: "4";	
+	font-family: Comic Sans MS, cursive, sans-serif;
+	
+	font-size: 16px;
+	font-weight: normal;
+}
+
